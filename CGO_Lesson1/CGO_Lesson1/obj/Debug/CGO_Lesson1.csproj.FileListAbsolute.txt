@@ -1,0 +1,8 @@
+D:\CGO_BasicCsharp\CGO_Lesson1\CGO_Lesson1\obj\Debug\CGO_Lesson1.csproj.AssemblyReference.cache
+D:\CGO_BasicCsharp\CGO_Lesson1\CGO_Lesson1\obj\Debug\CGO_Lesson1.csproj.SuggestedBindingRedirects.cache
+D:\CGO_BasicCsharp\CGO_Lesson1\CGO_Lesson1\obj\Debug\CGO_Lesson1.csproj.CoreCompileInputs.cache
+D:\CGO_BasicCsharp\CGO_Lesson1\CGO_Lesson1\bin\Debug\CGO_Lesson1.exe.config
+D:\CGO_BasicCsharp\CGO_Lesson1\CGO_Lesson1\bin\Debug\CGO_Lesson1.exe
+D:\CGO_BasicCsharp\CGO_Lesson1\CGO_Lesson1\bin\Debug\CGO_Lesson1.pdb
+D:\CGO_BasicCsharp\CGO_Lesson1\CGO_Lesson1\obj\Debug\CGO_Lesson1.exe
+D:\CGO_BasicCsharp\CGO_Lesson1\CGO_Lesson1\obj\Debug\CGO_Lesson1.pdb

@@ -1,0 +1,8 @@
+D:\CGO_BasicCsharp\hiển thị lời chào\hiển thị lời chào\bin\Debug\hiển thị lời chào.exe.config
+D:\CGO_BasicCsharp\hiển thị lời chào\hiển thị lời chào\bin\Debug\hiển thị lời chào.exe
+D:\CGO_BasicCsharp\hiển thị lời chào\hiển thị lời chào\bin\Debug\hiển thị lời chào.pdb
+D:\CGO_BasicCsharp\hiển thị lời chào\hiển thị lời chào\obj\Debug\hiển thị lời chào.csproj.AssemblyReference.cache
+D:\CGO_BasicCsharp\hiển thị lời chào\hiển thị lời chào\obj\Debug\hiển thị lời chào.csproj.SuggestedBindingRedirects.cache
+D:\CGO_BasicCsharp\hiển thị lời chào\hiển thị lời chào\obj\Debug\hiển thị lời chào.csproj.CoreCompileInputs.cache
+D:\CGO_BasicCsharp\hiển thị lời chào\hiển thị lời chào\obj\Debug\hiển thị lời chào.exe
+D:\CGO_BasicCsharp\hiển thị lời chào\hiển thị lời chào\obj\Debug\hiển thị lời chào.pdb
