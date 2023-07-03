@@ -1,0 +1,8 @@
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\hiện thị thời gian hệ thống\bin\Debug\hiện thị thời gian hệ thống.exe.config
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\hiện thị thời gian hệ thống\bin\Debug\hiện thị thời gian hệ thống.exe
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\hiện thị thời gian hệ thống\bin\Debug\hiện thị thời gian hệ thống.pdb
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\hiện thị thời gian hệ thống\obj\Debug\hiện thị thời gian hệ thống.csproj.AssemblyReference.cache
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\hiện thị thời gian hệ thống\obj\Debug\hiện thị thời gian hệ thống.csproj.SuggestedBindingRedirects.cache
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\hiện thị thời gian hệ thống\obj\Debug\hiện thị thời gian hệ thống.csproj.CoreCompileInputs.cache
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\hiện thị thời gian hệ thống\obj\Debug\hiện thị thời gian hệ thống.exe
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\hiện thị thời gian hệ thống\obj\Debug\hiện thị thời gian hệ thống.pdb

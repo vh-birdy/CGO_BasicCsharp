@@ -1,0 +1,8 @@
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_b1_hienthithoigianhethong\bin\Debug\cgo_b1_hienthithoigianhethong.exe.config
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_b1_hienthithoigianhethong\bin\Debug\cgo_b1_hienthithoigianhethong.exe
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_b1_hienthithoigianhethong\bin\Debug\cgo_b1_hienthithoigianhethong.pdb
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_b1_hienthithoigianhethong\obj\Debug\cgo_b1_hienthithoigianhethong.csproj.AssemblyReference.cache
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_b1_hienthithoigianhethong\obj\Debug\cgo_b1_hienthithoigianhethong.csproj.SuggestedBindingRedirects.cache
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_b1_hienthithoigianhethong\obj\Debug\cgo_b1_hienthithoigianhethong.csproj.CoreCompileInputs.cache
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_b1_hienthithoigianhethong\obj\Debug\cgo_b1_hienthithoigianhethong.exe
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_b1_hienthithoigianhethong\obj\Debug\cgo_b1_hienthithoigianhethong.pdb

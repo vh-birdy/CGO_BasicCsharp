@@ -1,0 +1,8 @@
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_buổi1\obj\Debug\cgo_buổi1.csproj.AssemblyReference.cache
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_buổi1\obj\Debug\cgo_buổi1.csproj.SuggestedBindingRedirects.cache
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_buổi1\obj\Debug\cgo_buổi1.csproj.CoreCompileInputs.cache
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_buổi1\bin\Debug\cgo_buổi1.exe.config
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_buổi1\bin\Debug\cgo_buổi1.exe
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_buổi1\bin\Debug\cgo_buổi1.pdb
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_buổi1\obj\Debug\cgo_buổi1.exe
+D:\CGO_BasicCsharp\cgo_buổi1\cgo_buổi1\obj\Debug\cgo_buổi1.pdb
