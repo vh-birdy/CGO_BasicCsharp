@@ -1,0 +1,8 @@
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\toán tử\bin\Debug\toán tử.exe.config
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\toán tử\bin\Debug\toán tử.exe
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\toán tử\bin\Debug\toán tử.pdb
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\toán tử\obj\Debug\toán tử.csproj.AssemblyReference.cache
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\toán tử\obj\Debug\toán tử.csproj.SuggestedBindingRedirects.cache
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\toán tử\obj\Debug\toán tử.csproj.CoreCompileInputs.cache
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\toán tử\obj\Debug\toán tử.exe
+D:\CGO_BasicCsharp\hiện thị thời gian hệ thống\toán tử\obj\Debug\toán tử.pdb
